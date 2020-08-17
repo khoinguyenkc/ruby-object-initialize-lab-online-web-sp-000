@@ -12,4 +12,4 @@ end
 end
 
 hi = Person.new("hi")
-hi.name
+puts hi.name
