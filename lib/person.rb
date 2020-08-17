@@ -10,3 +10,4 @@ end
 end
 
 hi = Person.new("hi")
+hi.name
